@@ -1,0 +1,328 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage{comment}
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{HENGGANG CUI} % Your name
+\address{1856 Fairhill Rd, Allison Park, PA, 15101} % Your address
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{(651)403-3366 \\ cuihenggang@gmail.com}  % Your phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+% \begin{rSection}{OBJECTIVE}
+
+% {Recently graduated, multidisciplinary Engineer with excellent problem solving abilities and process-thinking skill seeks hands on experience within a company that embraces creativity and innovation.Through my studies, I have gained extensive knowledge of production and manufacturing engineering, product design, among many other components of  Mechanical Engineering.Effective communicator who builds positive, cohesive relationship with all level of staff, eager to put my extensive studies to practical, applied use.}
+
+
+% \end{rSection}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\vspace{-.2in}
+
+\begin{rSection}{INTERESTS}
+
+\vspace{-.2in}
+\item[] Autonomous driving, deep learning, computer vision, and large-scale machine learning systems.
+
+\end{rSection}
+\vspace{-.05in}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+\hspace{-1em} Programming languages & Python, C$+$$+$, C, Java, CUDA\\
+\hspace{-1em} Machine learning softwares & TensorFlow, Caffe, Spark, Matlab, PyTorch, GraphLab\\
+\hspace{-1em} Big data softwares & MPI, TBB, HBase, OpenTSDB, Hadoop\\
+\end{tabular}
+\end{rSection}
+\vspace{-.05in}
+
+\begin{rSection}{Education}
+
+\begin{rSubsection}{\hspace{-1em} Carnegie Mellon University, Pittsburgh, PA.}{}{}{}
+\vspace{-0.3em}
+\item[] \hspace{-2em} Ph.D., Electrical and Computer Engineering (GPA: 3.93) \hfill May, 2017
+\item Advisor: Greg Ganger
+\item Research Topic: Large-Scale Machine Learning Systems
+\item[] \hspace{-2em} Master of Science, Electrical and Computer Engineering \hfill May, 2016
+\end{rSubsection}
+\vspace{-.1in}
+
+\begin{rSubsection}{\hspace{-1em} Tsinghua University, Beijing, China}{}{}{}
+\vspace{-0.3em}
+\item[] \hspace{-2em} Bachelor of Science, Electronic Information Science and Technology \hfill July 2012
+\end{rSubsection}
+\vspace{-.1in}
+
+\end{rSection}
+\vspace{-.05in}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{WORK EXPERIENCE}
+
+\begin{rSubsection}{\hspace{-1em} Uber Advanced Technologies Group, Pittsburgh, PA.}{}{}{}
+\vspace{-0.3em}
+\item[] \hspace{-2em} {\bf Senior Autonomy Engineer} \hfill June, 2017 to \emph{now}
+\item Conducting research and development for autonomous driving.
+\item Designing and owning the production deep learning model for predicting the trajectories of the vehicle actors on the road. The model predicts multiple trajectories for each actor with probabilities, uncertainty estimation, and vehicle kinematics constraints.
+\item Works patented and published at \emph{ICRA 2019} and \emph{NeurIPS 2018 MLITS Workshop}.
+\end{rSubsection}
+\end{rSection}
+\vspace{-.15in}
+
+\begin{rSection}{PHD THESIS RESEARCH}
+
+\hspace{-1em} \textbf{Thesis}: Exploiting Application Characteristics for Efficient System Support for Large-Scale Machine Learning
+\vspace{-.1in}
+\begin{list}{\enskip\textbullet}{\leftmargin=2em}
+\item \textbf{Committee}: Greg Ganger, Phil Gibbons, Garth Gibson, Eric Xing, and Derek Murray
+\vspace{-.1in}
+\item \textbf{Thesis Subprojects}: As follows:
+\end{list}
+
+\begin{rSubsection}{\hspace{-1em} GeePS: Specialized Parameter Server for Deep Learning on GPUs}{}
+{Published at EuroSys'16, and open-sourced at https://github.com/cuihenggang/geeps}{}
+% \small{
+\vspace{-0.3em}
+\item Designed GeePS, a distributed parameter server system for distributed deep learning on GPU machines.
+\item Achieved good scalability from single-machine Caffe (13$\times$ more throughput with 16 machines), by overlapping communication with computation.
+\item Supported DNNs that cannot fit in GPU memory, by swapping data to/from CPU memory in the background.
+% }
+\end{rSubsection}
+\vspace{-.1in}
+
+\begin{rSubsection}{\hspace{-1em} IterStore: Efficient Parameter Server for Iterative ML}{}
+{Published at SoCC'14 and open-sourced at https://github.com/cuihenggang/iterstore}{}
+% \small{
+\vspace{-0.3em}
+\item Observed the iterativeness characteristic of many ML applications: same access sequence every iterations.
+\item Designed the \emph{virtual iteration} method for collecting the repeating access sequence.
+\item Proposed five parameter server optimizations exploiting the collected info, achieving up to 50$\times$ speedup.
+% }
+\end{rSubsection}
+\vspace{-.1in}
+
+\begin{comment}
+\begin{rSubsection}{\hspace{-1em} MLtuner: Automatic ML tuning}{}
+{}{}
+\vspace{-0.3em}
+\item Designed the MLtuner system that automatically tunes ML task tunables, including learning rate, training batch size, and data staleness bound.
+\item Used efficient snapshotting and optimization-guided online trial-and-error, allowing MLtuner to find good tunable settings with little overhead.
+\item Experimented with real ML tasks, including deep learning and matrix factorization, showing that MLtuner automatically enables performance within 40--178\% of optimal tunable settings.
+\end{rSubsection}
+\vspace{-.1in}
+\end{comment}
+% \pagebreak
+
+\begin{rSubsection}{\hspace{-1em} Stale Synchronous Parallel (SSP): Trading Data Freshness for Speed}{}
+{Published at NIPS'13 and ATC'14}{}
+\vspace{-0.3em}
+\item Designed a parameter server system that supports SSP, a new consistency model for synchronizing parallel ML workers, with tunable data staleness bound.
+\item Experimented with many real ML applications, exploring the tradeoffs of data freshness and speed.
+\end{rSubsection}
+\vspace{-.1in}
+
+\end{rSection}
+\vspace{-.05in}
+
+
+\begin{rSection}{INTERNSHIP}
+
+\hspace{-1em} \textbf{HP Labs}, advised by Kimberly Keeton \hfill {May 2014 to Aug 2014}
+
+\vspace{-.1in}
+\begin{rSubsection}{\hspace{-1em} Aperture: Ingest-Time Transformation for Big Time Series Data}{}
+% {Internship project at HP Labs, advised by Kimberly Keeton\\
+{Published at SoCC'15, with patent US20170322987A1}{}
+\vspace{-0.3em}
+\item Designed Aperture, a database system for big time series data analytics.
+\item Proposed the \emph{ingest-time transformation} approach that allows Aperture to answer analytical queries more efficiently with transformed data.
+% \item Experimented with many real use cases (correlation search, IP occurrence query, and anomaly detection), showing query latency reductions by over an order of magnitude, with minimal impact on ingest throughput.
+\end{rSubsection}
+
+\end{rSection}
+\vspace{-.05in}
+
+
+\begin{rSection}{PUBLICATIONS}
+\vspace{-.1in}
+\small{
+% \begin{bibsection}
+    \item
+    [1]
+        {\bf Henggang Cui}, Vladan Radosavljevic, Fang-Chieh Chou, Tsung-Han Lin, Thi Nguyen, Tzu-Kuo Huang, Jeff Schneider, Nemanja Djuric.
+        ``Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks.''
+        In \emph{IEEE International Conference on Robotics and Automation (ICRA)}, 2019.
+    \item
+    [2]
+        Fang-Chieh Chou, Tsung-Han Lin, {\bf Henggang Cui}, Vladan Radosavljevic, Thi Nguyen, Tzu-Kuo Huang, Matthew Niedoba, Jeff Schneider, Nemanja Djuric.
+        ``Predicting Motion of Vulnerable Road Users using High-Definition Maps and Efficient ConvNets.''
+        In \emph{NeurIPS Workshop on Machine Learning for Intelligent Transportation Systems}, 2018.
+    \item
+    [3]
+        {\bf Henggang Cui}, Hao Zhang, Gregory R. Ganger, Phillip B. Gibbons, and Eric P. Xing.
+        ``GeePS: Scalable Deep Learning on Distributed GPUs with a GPU-Specialized Parameter Server.''
+        In \emph{ACM European Conference on Computer Systems (EuroSys)}, 2016.
+        % \emph{Presented at conference}.
+    \item
+    [4]
+        Aaron Harlap, {\bf Henggang Cui}, Wei Dai, Jinliang Wei, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing.
+        ``Addressing the Straggler Problem for Iterative Convergent Parallel ML.''
+        In \emph{ACM Symposium on Cloud Computing (SoCC)}, 2016.
+    \item
+    [5]
+        {\bf Henggang Cui}, Kimberly Keeton, Indrajit Roy, Krishnamurthy Viswanathan, and Gregory R. Ganger.
+        ``Using Data Transformations for Low-latency Time Series Analysis.''
+        In \emph{ACM Symposium on Cloud Computing (SoCC)}, 2015.
+        % \emph{Presented at conference}.
+    \item
+    [6]
+        Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, {\bf Henggang Cui}, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, Eric P. Xing.
+        ``Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics.''
+        In \emph{ACM Symposium on Cloud Computing (SoCC)}, 2015.
+    \item
+    [7]
+        {\bf Henggang Cui}, Alexey Tumanov, Jinliang Wei, Lianghong Xu, Wei Dai, Jesse Haber-Kucharsky, Qirong Ho, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing.
+        ``Exploiting Iterative-ness for Parallel ML Computations.''
+        In \emph{ACM Symposium on Cloud Computing (SoCC)}, 2014.
+        % \emph{Presented at conference}.
+    \item
+    [8]
+        {\bf Henggang Cui}, James Cipar, Qirong Ho, Jin Kyu Kim, Seunghak Lee, Abhimanu Kumar, Jinliang Wei, Wei Dai, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing.
+        ``Exploiting Bounded Staleness to Speed Up Big Data Analytics.''
+        In \emph{USENIX Annual Technical Conference (ATC)}, 2014.
+        % \emph{Presented at conference}.
+    \item
+    [9]
+        Qirong Ho, James Cipar, {\bf Henggang Cui}, Jin Kyu Kim, Seunghak Lee, Phillip B. Gibbons, Garth A. Gibson, Gregory R. Ganger, and Eric P. Xing.
+        ``More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server.''
+        In \emph{Neural Information Processing Systems (NIPS)}, 2013.
+    \item
+    [10]
+        {\bf Henggang Cui}, Danielle Rasooly, Moises R. N. Ribeiro, and Leonid Kazovsky.
+        ``Optically Cross-Braced Hypercube: A Reconfigurable Physical Layer for Interconnects and Server-Centric Datacenters.''
+        In \emph{Optical Fiber Communication Conference and Exposition (OFC/NFOEC)}, 2012.
+    \item
+    [11]
+        Dan Li, {\bf Henggang Cui}, Yan Hu, Yong Xia, and Xin Wang.
+        ``Scalable Data Center Multicast using Multi-class Bloom Filter.''
+        In \emph{19th IEEE International Conference on Network Protocols (ICNP)}, 2011.
+}
+% \end{bibsection}
+\end{rSection}
+\vspace{-.05in}
+
+% \begin{rSection}{CONFERENCE TALKS}
+% \vspace{-.1in}
+    % \item
+    % [1]
+% GeePS: Scalable Deep Learning on Distributed GPUs with a GPU-Specialized Parameter Server \\
+    % In \emph{EuroSys 2016}, London, UK \hfill Apr 2016
+    % \item
+    % [2]
+% Using Data Transformations for Low-latency Time Series Analysis \\
+    % In \emph{SoCC 2015}, Kohala Coast, HI \hfill Aug 2015
+    % \item
+    % [3]
+% Exploiting Iterative-ness for Parallel ML Computations \\
+    % In \emph{SoCC 2014}, Seattle, WA \hfill Nov 2014
+    % \item
+    % [4]
+% Exploiting Bounded Staleness to Speed Up Big Data Analytics \\
+    % In \emph{ATC 2014}, Philadelphia, PA \hfill Jun 2014
+    % \item
+    % [5]
+% LazyTable: Distributed Machine Learning with the Stale Synchronous Parallel Model \\
+    % In \emph{SOSP 2013 WIP Talk}, Farmington, PA \hfill Nov 2013
+% \vspace{.1in}
+
+% \end{rSection}
+
+
+\begin{rSection}{PATENTS}
+\vspace{-.1in}
+\small{
+% \begin{bibsection}
+    \item
+    [1]
+        Nemanja Djuric, Vladan Radosavljevic, Thi Duong Nguyen, Tsung-Han Lin, Jeff Schneider, {\bf Henggang Cui}, Fang-Chieh Chou, and Tzu-Kuo Huang.
+        ``Object Motion Prediction and Autonomous Vehicle Control''.
+        \emph{US20190049970A1}.
+    \item
+    [2]
+        {\bf Henggang Cui}, Kimberly Keeton, Indrajit Roy, Krishnamurthy Viswanathan, and Haris Volos.
+        ``Processing a query using transformed raw data''.
+        \emph{US20170322987A1}.
+}
+\end{rSection}
+\vspace{-.05in}
+
+
+\begin{rSection}{PROFESSION SERVICES}
+
+\small{
+\hspace{-1em} \textbf{Program Committee}: \emph{CVPR ``Precognition: Seeing through the Future'' Workshop} \hfill {2019}
+
+\vspace{-.1in}
+\hspace{-1em} \textbf{Program Committee}: \emph{ACM Symposium on Cloud Computing} \hfill {2017 and 2018}
+
+% \vspace{-.1in}
+% \hspace{-1em} \textbf{Program Committee}: \emph{ACM Symposium on Cloud Computing} \hfill {2017}
+
+\vspace{-.1in}
+\hspace{-1em} \textbf{Program Committee}: \emph{Computing Conference} \hfill {2017}
+}
+
+\end{rSection}
+\vspace{-.05in}
+
+
+% \begin{rSection}{TEACHING EXPERIENCE}
+
+% \hspace{-1em} \textbf{Teaching Assistance}: 15746/18746 Storage Systems \hfill {Spring 2015}
+
+% \vspace{-.1in}
+% \hspace{-1em} \textbf{Teaching Assistance}: 15746/18746 Storage Systems \hfill {Fall 2016}
+
+% \end{rSection}
+% \vspace{-.05in}
+
+\end{document}
