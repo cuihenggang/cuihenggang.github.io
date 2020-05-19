@@ -65,7 +65,7 @@
 \begin{rSection}{SKILLS}
 
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-\hspace{-1em} Languages/Libraries & C/C$+$$+$, Python, CUDA, TensorFlow, PyTorch, Caffe, Spark, Matlab, MPI\\
+\hspace{-1em} Languages/Libraries/Tools & C/C$+$$+$, Python, PyTorch, TensorFlow, git, LaTex, Spark, CUDA\\
 \end{tabular}
 \end{rSection}
 \vspace{-.05in}
@@ -82,8 +82,8 @@
 \item Conducting research and development for perception and prediction models for autonomous driving.
 \item Designed and owning the production deep learning model for predicting the future trajectories of surrounding vehicle actors on the road using scene rasterization and deep convolutional neural networks.\\
 The model predicts multimodal trajectories with trajectory-level probabilities, waypoint-level uncertainty estimation, and following vehicle kinematics constraints.
-\item Developing a new joint detection and prediction model that predicts actors' future trajectories directly from raw lidar point clouds.
-\item Works patented and published at \emph{ICRA '19}, \emph{ICRA '20}, \emph{WACV '20}, \emph{NeurIPS '18 MLITS Workshop}, and \emph{NeurIPS '19 ML4AD Workshop}.
+\item Designed and owning a new joint detection and prediction model that predicts actors' future trajectories directly from raw lidar point clouds.
+\item Works patented and published at \emph{ICRA '19}, \emph{ICRA '20}, \emph{WACV '20}, \emph{IV '20}, and \emph{KDD '20}.
 \end{rSubsection}
 \end{rSection}
 \vspace{-.1in}
@@ -182,79 +182,89 @@ The model predicts multimodal trajectories with trajectory-level probabilities, 
 
 \begin{rSection}{PUBLICATIONS}
 \vspace{-.1in}
-\small{
+\footnotesize{
 % \begin{bibsection}
     \item
     [1]
+        Eason Wang*, {\bf Henggang Cui*}, Sai Yalamanchi, Mohana Moorthy, Fang-Chieh Chou, Nemanja Djuric.
+        ``Predicting Motion of Vulnerable Road Users using High-Definition Maps and Efficient ConvNets.''
+        In \emph{SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)}, 2020.
+    \item
+    [2]
+        Fang-Chieh Chou, Tsung-Han Lin, {\bf Henggang Cui}, Vladan Radosavljevic, Thi Nguyen, Tzu-Kuo Huang, Matthew Niedoba, Jeff Schneider, Nemanja Djuric.
+        ``Predicting Motion of Vulnerable Road Users using High-Definition Maps and Efficient ConvNets.''
+        In \emph{IEEE Intelligent Transportation Systems (IV)}, 2020.
+    \item
+    [3]
         {\bf Henggang Cui}, Thi Nguyen, Fang-Chieh Chou, Tsung-Han Lin, Jeff Schneider, David Bradley, Nemanja Djuric.
         ``Deep Kinematic Models for Kinematically Feasible Vehicle Trajectory Predictions.''
         In \emph{IEEE International Conference on Robotics and Automation (ICRA)}, 2020.
     \item
-    [2]
+    [4]
         {\bf Henggang Cui}, Vladan Radosavljevic, Fang-Chieh Chou, Tsung-Han Lin, Thi Nguyen, Tzu-Kuo Huang, Jeff Schneider, Nemanja Djuric.
         ``Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks.''
         In \emph{IEEE International Conference on Robotics and Automation (ICRA)}, 2019.
     \item
-    [3]
+    [5]
         Matthew Niedoba, {\bf Henggang Cui}, Kevin Luo, Darshan Hegde, Fang-Chieh Chou, Nemanja Djuric.
         ``Improving Movement Prediction of Traffic Actors using Off-road Loss and Bias Mitigation.''
         In \emph{NeurIPS Workshop on Machine Learning for Autonomous Driving}, 2019.
     \item
-    [4]
+    [6]
         Fang-Chieh Chou, Tsung-Han Lin, {\bf Henggang Cui}, Vladan Radosavljevic, Thi Nguyen, Tzu-Kuo Huang, Matthew Niedoba, Jeff Schneider, Nemanja Djuric.
         ``Predicting Motion of Vulnerable Road Users using High-Definition Maps and Efficient ConvNets.''
         In \emph{NeurIPS Workshop on Machine Learning for Intelligent Transportation Systems}, 2018.
     \item
-    [5]
+    [7]
         Nemanja Djuric, Vladan Radosavljevic, {\bf Henggang Cui}, Thi Nguyen, Fang-Chieh Chou, Tsung-Han Lin, Jeff Schneider.
         ``Uncertainty-aware Short-term Motion Prediction of Traffic Actors for Autonomous Driving.''
         In \emph{IEEE Winter Conference on Applications of Computer Vision (WACV)}, 2020.
     \item
-    [6]
+    [8]
         {\bf Henggang Cui}, Hao Zhang, Gregory R. Ganger, Phillip B. Gibbons, and Eric P. Xing.
         ``GeePS: Scalable Deep Learning on Distributed GPUs with a GPU-Specialized Parameter Server.''
         In \emph{ACM European Conference on Computer Systems (EuroSys)}, 2016.
         % \emph{Presented at conference}.
     \item
-    [7]
+    [9]
         Aaron Harlap, {\bf Henggang Cui}, Wei Dai, Jinliang Wei, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing.
         ``Addressing the Straggler Problem for Iterative Convergent Parallel ML.''
         In \emph{ACM Symposium on Cloud Computing (SoCC)}, 2016.
     \item
-    [8]
+    [10]
         {\bf Henggang Cui}, Kimberly Keeton, Indrajit Roy, Krishnamurthy Viswanathan, and Gregory R. Ganger.
         ``Using Data Transformations for Low-latency Time Series Analysis.''
         In \emph{ACM Symposium on Cloud Computing (SoCC)}, 2015.
         % \emph{Presented at conference}.
     \item
-    [9]
+    [11]
         Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, {\bf Henggang Cui}, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, Eric P. Xing.
         ``Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics.''
         In \emph{ACM Symposium on Cloud Computing (SoCC)}, 2015.
     \item
-    [10]
+    [12]
         {\bf Henggang Cui}, Alexey Tumanov, Jinliang Wei, Lianghong Xu, Wei Dai, Jesse Haber-Kucharsky, Qirong Ho, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing.
         ``Exploiting Iterative-ness for Parallel ML Computations.''
         In \emph{ACM Symposium on Cloud Computing (SoCC)}, 2014.
         % \emph{Presented at conference}.
     \item
-    [11]
+    [13]
         {\bf Henggang Cui}, James Cipar, Qirong Ho, Jin Kyu Kim, Seunghak Lee, Abhimanu Kumar, Jinliang Wei, Wei Dai, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing.
         ``Exploiting Bounded Staleness to Speed Up Big Data Analytics.''
         In \emph{USENIX Annual Technical Conference (ATC)}, 2014.
         % \emph{Presented at conference}.
     \item
-    [12]
+    [14]
         Qirong Ho, James Cipar, {\bf Henggang Cui}, Jin Kyu Kim, Seunghak Lee, Phillip B. Gibbons, Garth A. Gibson, Gregory R. Ganger, and Eric P. Xing.
         ``More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server.''
         In \emph{Neural Information Processing Systems (NIPS)}, 2013.
     \item
-    [13]
+    [15]
         {\bf Henggang Cui}, Danielle Rasooly, Moises R. N. Ribeiro, and Leonid Kazovsky.
         ``Optically Cross-Braced Hypercube: A Reconfigurable Physical Layer for Interconnects and Server-Centric Datacenters.''
         In \emph{Optical Fiber Communication Conference and Exposition (OFC/NFOEC)}, 2012.
     \item
-    [14]
+    [16]
         Dan Li, {\bf Henggang Cui}, Yan Hu, Yong Xia, and Xin Wang.
         ``Scalable Data Center Multicast using Multi-class Bloom Filter.''
         In \emph{19th IEEE International Conference on Network Protocols (ICNP)}, 2011.
