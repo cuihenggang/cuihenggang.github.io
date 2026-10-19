@@ -1,3 +1,8 @@
 plugins:
   - jekyll-seo-tag
+exclude:
+  - trips/2024-03-peru.html
+  - scripts
+  - requirements-preview.txt
+  - README.md
 
