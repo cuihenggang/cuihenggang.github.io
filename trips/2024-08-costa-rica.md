@@ -100,12 +100,13 @@ Stay: HRG Condos at Los Sueños, HRG Vacation Rentals
 
 - Drive: 4.5 hours
 - Boat transfer: 3:00pm–4:30pm (1.5 hours)
+    - Tortuguero National Park is only accessible by boat
 
 Stay: Tortuga Lodge
 
 ### Wed, August 21 — Tortuguero & Sea Turtle Nesting Tour
 
-- Tortuguero Morning Boat Tour
+- Tortuguero National Park Boat Tour
 - Sea turtle Nesting Night Tour
 
 Stay: Tortuga Lodge
