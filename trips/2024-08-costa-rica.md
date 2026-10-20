@@ -30,7 +30,6 @@ Stay: Holiday Inn Express San Jose Costa Rica Airport, an IHG Hotel
 - Poás Volcano National Park (2 hours)
     - Must purchase ahead [here](https://serviciosenlinea.sinac.go.cr/)
 - Tirimbina Biological Reserve (2–3 hours)
-- La Paz Waterfall
 - Drive: 2 hours
 
 Stay: El Lugar Costa Rica Resort
@@ -53,7 +52,6 @@ Stay: Nayara Tented Camp
 
 - Spend the morning at the hotel
 - Místico Arenal Hanging Bridges
-- La Peninsula Sector of Arenal Volcano National Park
 - 6:30pm: [Ecocentro Danaus Night Tour](https://www.ecocentrodanaus.com/en/tour-nocturno) (2 hours)
 
 Stay: Arenal Kioro Suites & Spa
@@ -63,14 +61,13 @@ Stay: Arenal Kioro Suites & Spa
 - 8:00am: [Bogarin Trail Sloth Watching Guided Tour](https://bogarintrail.com/guided-tour/) (2 hours)
 - 11:15am: Ecocentro Danaus self-guided tour (1.5 hours)
 - Titokú Hot Springs (included with the hotel)
-- Fortuna Waterfall
 
 Stay: Arenal Kioro Suites & Spa
 
-### Fri, August 16 — Monteverde Hanging Bridges
+### Fri, August 16 — Monteverde
 
 - Drive: 3 hours
-- 2:00pm: Skywalk Hanging Bridges at Sky Monteverde, Treetopia Park (formerly Sky Adventures Monteverde)
+- 2:00pm: Treetopia Park
 
 Stay: Hotel Senda Monteverde
 
@@ -108,7 +105,7 @@ Stay: Tortuga Lodge
 
 ### Wed, August 21 — Tortuguero & Sea Turtle Nesting Tour
 
-- Tortuguero Boat Tour
+- Tortuguero Morning Boat Tour
 - Sea turtle Nesting Night Tour
 
 Stay: Tortuga Lodge
@@ -117,12 +114,13 @@ Stay: Tortuga Lodge
 
 - Boat transfer: 8:35am–10:00am (approximately 1.5 hours)
 - Drive: 3 hours
+- San Jose China Town
 
 Stay: Buena Vista Chic Hotel
 
 ### Fri, August 23 — Coffee Farm & Departure
 
-- 9:00am: Starbucks Farm Tour at Hacienda Alsacia visitor center (1.5 hours)
+- 9:00am: Starbucks Farm Tour at Hacienda Alsacia Visitor Center (1.5 hours)
 - 12:00pm: Alamo car rental return
 - Flights: AA946 and AA1200, 2:25pm–11:56pm
 
