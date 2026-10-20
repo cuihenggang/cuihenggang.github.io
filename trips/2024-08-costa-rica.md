@@ -74,8 +74,9 @@ Stay: Hotel Senda Monteverde
 ### Sat, August 17 — Curi-Cancha & Monteverde Wildlife
 
 - 6:30am: [Curi-Cancha Reserve Bird Watching Tour](https://reservacuricancha.com/tours/) (4.5 hours)
-    - Saw Resplendent Quetzal there
+    - Highlights include Resplendent Quetzal, Keel-billed Toucan, Northern Emerald-Toucanet, etc.
 - Monteverde Hummingbird Gallery
+    - Amazing place for hummingbirds
 - 5:30pm: [Wildlife Refuge Monteverde Night Tour](https://www.nasuatours.com/night-tour/) (2.5 hours)
     - The tour was cancelled due to heavy rain.
 
