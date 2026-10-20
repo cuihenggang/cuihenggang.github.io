@@ -35,10 +35,10 @@ Stay: Holiday Inn Express San Jose Costa Rica Airport, an IHG Hotel
 
 Stay: El Lugar Costa Rica Resort
 
-### Mon, August 12 — La Selva & pineapple tour
+### Mon, August 12 — La Selva & Pineapple Tour
 
-- 5:45am: La Selva Biological Station Early Birding Tour (2 hours; paid tour, price not specified)
-- Pineapple tour with Organic Paradise Tour (2 hours)
+- 5:45am: [La Selva Biological Station Early Birding Tour](https://tropicalstudies.org/portfolio/natural-history-visitors-la-selva/) (2 hours)
+- Pineapple Tour with Organic Paradise Tour (2 hours)
 
 Stay: El Lugar Costa Rica Resort
 
@@ -49,36 +49,38 @@ Stay: El Lugar Costa Rica Resort
 
 Stay: Nayara Tented Camp
 
-### Wed, August 14 — Arenal & a night tour
+### Wed, August 14 — Arenal & Night Tour
 
 - Spend the morning at the hotel
 - Místico Arenal Hanging Bridges
 - La Peninsula Sector of Arenal Volcano National Park
-- 6:30pm: Ecocentro Danaus night tour (2 hours)
+- 6:30pm: [Ecocentro Danaus Night Tour](https://www.ecocentrodanaus.com/en/tour-nocturno) (2 hours)
 
 Stay: Arenal Kioro Suites & Spa
 
-### Thu, August 15 — Sloths, hot springs & Fortuna Waterfall
+### Thu, August 15 — Sloths, Hot Springs & Fortuna Waterfall
 
-- 8:00am: Bogarin Trail Sloth Watching Guided Tour (2 hours)
+- 8:00am: [Bogarin Trail Sloth Watching Guided Tour](https://bogarintrail.com/guided-tour/) (2 hours)
 - 11:15am: Ecocentro Danaus self-guided tour (1.5 hours)
 - Titokú Hot Springs (included with the hotel)
 - Fortuna Waterfall
 
 Stay: Arenal Kioro Suites & Spa
 
-### Fri, August 16 — Monteverde hanging bridges
+### Fri, August 16 — Monteverde Hanging Bridges
 
 - Drive: 3 hours
 - 2:00pm: Skywalk Hanging Bridges at Sky Monteverde, Treetopia Park (formerly Sky Adventures Monteverde)
 
 Stay: Hotel Senda Monteverde
 
-### Sat, August 17 — Curi-Cancha & Monteverde wildlife
+### Sat, August 17 — Curi-Cancha & Monteverde Wildlife
 
-- 6:30am: Curi-Cancha Reserve Bird Watching Tour (4.5 hours)
+- 6:30am: [Curi-Cancha Reserve Bird Watching Tour](https://reservacuricancha.com/tours/) (4.5 hours)
+    - Saw Resplendent Quetzal there
 - Monteverde Hummingbird Gallery
-- 5:30pm: Wildlife Refuge Monteverde night tour (2.5 hours)
+- 5:30pm: [Wildlife Refuge Monteverde Night Tour](https://www.nasuatours.com/night-tour/) (2.5 hours)
+    - The tour was cancelled due to heavy rain.
 
 Stay: Hotel Senda Monteverde
 
@@ -90,9 +92,9 @@ Stay: Hotel Senda Monteverde
 
 Stay: HRG Condos at Los Sueños, HRG Vacation Rentals
 
-### Mon, August 19 — Carara & crocodile river tour
+### Mon, August 19 — Carara & Crocodile River Tour
 
-- 8:00am: Guided visit to Carara National Park through Viator (3 hours; ticket included)
+- 8:00am: [Guided visit to Carara National Park through Viator](https://www.viator.com/tours/Jaco/Guided-visit-to-Carara-National-Park/d4144-361498P2) (3 hours)
 - Jose's Crocodile River Tour (2 hours; 2:00pm or 4:00pm)
 
 Stay: HRG Condos at Los Sueños, HRG Vacation Rentals
@@ -104,10 +106,10 @@ Stay: HRG Condos at Los Sueños, HRG Vacation Rentals
 
 Stay: Tortuga Lodge
 
-### Wed, August 21 — Tortuguero & sea turtles
+### Wed, August 21 — Tortuguero & Sea Turtle Nesting Tour
 
-- Tortuguero boat tour
-- Sea turtle nesting night tour
+- Tortuguero Boat Tour
+- Sea turtle Nesting Night Tour
 
 Stay: Tortuga Lodge
 
@@ -118,9 +120,9 @@ Stay: Tortuga Lodge
 
 Stay: Buena Vista Chic Hotel
 
-### Fri, August 23 — Coffee farm & departure
+### Fri, August 23 — Coffee Farm & Departure
 
-- 9:00am: Starbucks farm tour at Hacienda Alsacia visitor center (1.5 hours)
+- 9:00am: Starbucks Farm Tour at Hacienda Alsacia visitor center (1.5 hours)
 - 12:00pm: Alamo car rental return
 - Flights: AA946 and AA1200, 2:25pm–11:56pm
 
