@@ -92,6 +92,7 @@ Stay: HRG Condos at Los Sueños, HRG Vacation Rentals
 ### Mon, August 19 — Carara & Crocodile River Tour
 
 - 8:00am: [Guided visit to Carara National Park through Viator](https://www.viator.com/tours/Jaco/Guided-visit-to-Carara-National-Park/d4144-361498P2) (3 hours)
+    - Highlights including White-whiskered Puffbird, Rufous-tailed Jacamar, Black-hooded Antshrike, Streaked-chested Antpitta, etc.
 - Jose's Crocodile River Tour (2 hours; 2:00pm or 4:00pm)
 
 Stay: HRG Condos at Los Sueños, HRG Vacation Rentals
