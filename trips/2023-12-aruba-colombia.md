@@ -86,10 +86,10 @@ Stay: GHL Hotel Portón Medellín, Medellín
 ### Tue, December 26 — Río Claro
 
 - Drive to Río Claro
-- Restaurante El Palacio De Los Frijoles
+- Birding at Restaurante El Palacio De Los Frijoles
     - Good birding place on the way
     - We also saw Silver-brown Tamarin here
-- Río Claro Reserve
+- Birding at Río Claro Reserve
     - The Oilbird Cave (5.886938, -74.85272) is about 20 minutes walking from the lodge
     - Oilbirds fly out from the cave every evening at about 18:15
 
@@ -113,7 +113,7 @@ Stay: Hyatt Place Bogota/Convention Center, Bogotá
 
 ### Fri, December 29 — La Florida Park & Salt Cathedral
 
-- La Florida Park
+- Birding at La Florida Park
     - A good place to find the endemic Bogotá Rail
     - I heard it but unfortunately didn't see it
 - Salt Cathedral

@@ -12,7 +12,7 @@ permalink: /trips/2023-11-jamaica.html
 
 A Thanksgiving holiday trip to Jamaica. We drove around the island, with stops at Montego Bay, Negril, Kingston, Ocho Rios and Falmouth. [Google Map Itinerary](https://www.google.com/maps/dir/Negril,+Jamaica/Kingston,+Jamaica/Ocho+Rios,+Jamaica/Falmouth,+Jamaica/Montego+Bay,+Jamaica/@18.2209251,-78.2380537,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x8ed90d8512302c85:0x7bc0f136de355913!2m2!1d-78.3472424!2d18.2683058!1m5!1m1!1s0x8edb3f9784ded2a1:0x24f321bfabb7af40!2m2!1d-76.8099041!2d18.0178743!1m5!1m1!1s0x8edafdc91dfb81d5:0x24cebac16dce2c77!2m2!1d-77.1031345!2d18.4073894!1m5!1m1!1s0x8eda33f8c3cfab6b:0x947175f8cf7d2536!2m2!1d-77.656476!2d18.4928457!1m5!1m1!1s0x8eda2a5dfd77e2b1:0xfcd69adb5acc5766!2m2!1d-77.8938895!2d18.4762228!3e0?entry=ttu).
 
-We saw 21 of the 28 endemic bird species on the island.
+I found 21 of the 28 endemic bird species on the island.
 
 [eBird trip report](https://ebird.org/tripreport/173776).
 
@@ -57,10 +57,10 @@ Stay: ROK Hotel Kingston, Kingston
 
 - Birding Tour with [Arrowhead Birding Tours](https://arrowheadbirding.com/)
     - Led by Ricardo Miller, the #1 birder in Jamaica on eBird
-    - We started at 4:30am before sunrise to search for Jamaican Owl first.
-    - We spent the morning at Hardwar Gap in Blue Mountain NP searching for the endemics.
-    - We went to Hope Botanical Gardens after lunch.
-    - We saw most of the Jamaican endemic birds during the tour. Highly recommended!
+    - Started at 4:30am before sunrise to search for Jamaican Owl
+    - Morning at Hardwar Gap in Blue Mountain NP
+    - Afternoon at Hope Botanical Gardens
+    - Found 18 of the 28 Jamaican endemic birds during the tour. Highly recommended!
 
 Stay: ROK Hotel Kingston, Kingston
 
@@ -75,15 +75,17 @@ Stay: Sago Palm Hotel, Ocho Rios
 ### Fri, November 24 — White River Rafting & Iuminous Lagoon
 
 - White River Rafting
-- Drive to Falmouth (1.5 hr)
 - Green Grotto Cave
+    - Saw a lot of Jamaican Fruit-eating Bats in the cave
+- Birding at Stewart Town
+    - For Jamaican Crow and Black-billed Parrot
+- Drive to Falmouth (1.5 hr)
 - 6:30pm: Glistening Waters at Glistening Waters Luminous Lagoon Hotel & Attraction
 
 Stay: The Vista Inn, Falmouth
 
-### Sat, November 25 — Rose Hall & Departure
+### Sat, November 25 — Departure
 
-- Rose Hall Great House
 - 2:15pm: Departure on WN 273, connecting to WN 2697
 
 ## Places to Stay
