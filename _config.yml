@@ -1,6 +1,7 @@
 plugins:
   - jekyll-seo-tag
 exclude:
+  - trips/2023-11-jamaica.html
   - trips/2023-12-aruba-colombia.html
   - trips/2024-03-peru.html
   - trips/2024-08-costa-rica.html
