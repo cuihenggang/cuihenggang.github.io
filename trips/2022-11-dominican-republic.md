@@ -75,7 +75,7 @@ Stay: Embassy Suites by Hilton Santo Domingo
 
 ### Sat, November 26 — Finest Punta Cana
 
-- Relax at hotel
+- Relax at the resort
 
 Stay: Finest Punta Cana
 

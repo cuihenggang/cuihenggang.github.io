@@ -10,7 +10,7 @@ permalink: /trips/2024-08-costa-rica.html
 
 ## Overview
 
-A two-week Costa Rica itinerary. Highlights are birds, sloths, frogs, and turtle nesting. Stops include Sarapiquí, Arenal, Monteverde, Los Sueños and Tortuguero.
+A summer trip to Costa Rica. Highlights are birds, sloths, frogs, and turtle nesting. Stops include Sarapiquí, Arenal, Monteverde, Los Sueños and Tortuguero.
 
 [eBird trip report](https://ebird.org/tripreport/266634).
 
