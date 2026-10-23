@@ -2,6 +2,7 @@ plugins:
   - jekyll-seo-tag
 exclude:
   - trips/2021-11-mexico.html
+  - trips/2022-08-canada.html
   - trips/2022-11-dominican-republic.html
   - trips/2023-11-jamaica.html
   - trips/2023-12-aruba-colombia.html

@@ -10,9 +10,9 @@ permalink: /trips/2023-11-jamaica.html
 
 ## Overview
 
-A Thanksgiving holiday trip to Jamaica. We drove around the island, with stops at Montego Bay, Negril, Kingston, Ocho Rios and Falmouth. [Google Map Itinerary](https://www.google.com/maps/dir/Negril,+Jamaica/Kingston,+Jamaica/Ocho+Rios,+Jamaica/Falmouth,+Jamaica/Montego+Bay,+Jamaica/@18.2209251,-78.2380537,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x8ed90d8512302c85:0x7bc0f136de355913!2m2!1d-78.3472424!2d18.2683058!1m5!1m1!1s0x8edb3f9784ded2a1:0x24f321bfabb7af40!2m2!1d-76.8099041!2d18.0178743!1m5!1m1!1s0x8edafdc91dfb81d5:0x24cebac16dce2c77!2m2!1d-77.1031345!2d18.4073894!1m5!1m1!1s0x8eda33f8c3cfab6b:0x947175f8cf7d2536!2m2!1d-77.656476!2d18.4928457!1m5!1m1!1s0x8eda2a5dfd77e2b1:0xfcd69adb5acc5766!2m2!1d-77.8938895!2d18.4762228!3e0?entry=ttu).
+A Thanksgiving holiday trip to Jamaica. We drove around the island, with stops at Montego Bay, Negril, Kingston, Ocho Rios and Falmouth. An important focus of this trip is to find the 28 endemic birds on the island, and I found 21 of them.
 
-I found 21 of the 28 endemic bird species on the island.
+[Google Map Itinerary](https://www.google.com/maps/dir/Negril,+Jamaica/Kingston,+Jamaica/Ocho+Rios,+Jamaica/Falmouth,+Jamaica/Montego+Bay,+Jamaica/@18.2209251,-78.2380537,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x8ed90d8512302c85:0x7bc0f136de355913!2m2!1d-78.3472424!2d18.2683058!1m5!1m1!1s0x8edb3f9784ded2a1:0x24f321bfabb7af40!2m2!1d-76.8099041!2d18.0178743!1m5!1m1!1s0x8edafdc91dfb81d5:0x24cebac16dce2c77!2m2!1d-77.1031345!2d18.4073894!1m5!1m1!1s0x8eda33f8c3cfab6b:0x947175f8cf7d2536!2m2!1d-77.656476!2d18.4928457!1m5!1m1!1s0x8eda2a5dfd77e2b1:0xfcd69adb5acc5766!2m2!1d-77.8938895!2d18.4762228!3e0?entry=ttu).
 
 [eBird trip report](https://ebird.org/tripreport/173776).
 
