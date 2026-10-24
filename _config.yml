@@ -9,6 +9,7 @@ exclude:
   - trips/2024-03-peru.html
   - trips/2024-08-costa-rica.html
   - trips/2024-12-mexico.html
+  - trips/2026-03-west-caribbean-cruise.html
   - scripts
   - requirements-preview.txt
   - README.md
