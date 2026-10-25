@@ -58,3 +58,4 @@ Stay: Point A Hotel Edinburgh Haymarket
 ## Vlogs
 
 - [2026-04-28 Holyrood Park & Edinburgh Castle, Scotland, UK](https://www.youtube.com/watch?v=x5dpLa0DP7Q)
+- [2026-04-30 Pentland Hills Regional Park, Scotland, UK](https://www.youtube.com/watch?v=KmVpnJJXG14)
