@@ -10,7 +10,7 @@ permalink: /trips/2026-04-united-kingdom.html
 
 ## Overview
 
-A trip to Edinburgh, UK for the EuroSys conference, where I received the Test of Time Award for my 2016 paper. Outside the conference,  I visited the Edinburgh attractions and spent some time birding.
+A trip to Edinburgh, UK for the EuroSys conference, where I received the Test of Time Award for my 2016 paper. Outside the conference,  I visited the Edinburgh attractions and spent some time birding around Edinburgh.
 
 [eBird trip report](https://ebird.org/tripreport/508114).
 

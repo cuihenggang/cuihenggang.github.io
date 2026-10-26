@@ -10,7 +10,9 @@ permalink: /trips/2023-07-kenya-tanzania.html
 
 ## Overview
 
-A summer trip to Kenya and Tanania for wildlife safari. We booked the tour from Amazing Memories Safari. Since the tour group consisted of only my family of three, I was able to ask the driver to search and stop for birds. In 12 days, we saw 36 mammal, 147 bird, and 5 reptile species.
+A summer trip to Kenya and Tanania for wildlife safari. We booked a 12-day tour with Amazing Memories Safari, with visits to Maasai Mara, Serengeti, Ngorongoro, Lake Manyara, Tarangire, and Amboseli.
+
+The tour group was just my family, so I was able to ask the driver to search and stop for birds. In 12 days, we saw 36 mammal, 147 bird, and 5 reptile species.
 
 [eBird trip report](https://ebird.org/tripreport/154884).
 
