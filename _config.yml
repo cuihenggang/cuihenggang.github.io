@@ -1,6 +1,7 @@
 plugins:
   - jekyll-seo-tag
 exclude:
+  - trips/2021-12-bahamas.html
   - trips/2022-12-egypt.html
   - trips/2023-07-kenya-tanzania.html
   - trips/2026-08-china.html
